@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+scikit-learn
+# Add any other modules that your app requires
